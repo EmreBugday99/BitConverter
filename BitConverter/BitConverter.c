@@ -1,6 +1,4 @@
 #include "BitConverter.h"
-#include <stdio.h>
-#include <string.h>
 
 void GetBytesInt32(int data, unsigned char *buffer)
 {
